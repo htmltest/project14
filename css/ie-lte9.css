@@ -1,0 +1,7 @@
+.slider-ctrl ul li a,
+.slider-content ul li img,
+.adv-block,
+.main-catalogue a,
+.personnel-inner,
+.window-inner,
+.window-resume-submit input {behavior:url(./js/PIE.htc)}

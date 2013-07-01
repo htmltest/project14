@@ -1,0 +1,15 @@
+.top,
+.header-phone-callback,
+.header-social,
+.header-menu,
+.slider-ctrl,
+.adv-block-photo span,
+.main-catalogue-img em,
+.main-company-years,
+.left,
+.footer-menu,
+.side {display:none}
+
+.content {width:100%}
+
+a {color:#000 !important; text-decoration:none !important}
