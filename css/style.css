@@ -10,7 +10,7 @@ img {border:none}
 .wrapper-inner {padding:0 0 327px 0; position:relative; margin:0 -10px}
 
 .top {height:43px; width:870px; padding:0 0 0 150px; margin:0 auto}
-.top ul {width:100%; margin:0 auto; padding:0; list-style:none; position:relative; height:43px; font-size:12px; line-height:41px; color:#9dc1d0; background:url(../images/top-menu.png) repeat-x left bottom; text-align:justify; overflow:hidden}
+.top ul {width:100%; margin:0 auto; padding:0; list-style:none; position:relative; height:43px; overflow:hidden; font-size:12px; line-height:41px; color:#9dc1d0; background:url(../images/top-menu.png) repeat-x left bottom; text-align:justify; overflow:hidden}
 .top ul li {display:inline; padding:0; margin:0}
 .top ul:after {content:""; display:inline-block; width:100%}
 .top ul li a {color:#83939b}
@@ -221,7 +221,7 @@ img {border:none}
 .resume-link {display:block; width:209px; height:34px; font:14px/34px arial, helvetica, sans-serif; text-decoration:none; background:url(../images/resume-link.png); color:#fff; text-align:center}
 .resume-link:hover {background-position:left -34px}
 
-.content {float:right; width:800px}
+.content {float:right; width:800px; position:relative}
 .side+.content {width:540px; padding:0 50px 0 0}
 .content h1 {color:#468dab; font-size:32px; line-height:32px; font-weight:normal; margin:0; padding:0 0 15px 0}
 .content p {margin:0; padding:0 0 18px 0}

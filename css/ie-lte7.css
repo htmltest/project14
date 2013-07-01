@@ -1,0 +1,14 @@
+.top ul span.after {display:inline-block; width:100%}
+
+.header-menu ul span.after {display:inline-block; width:100%}
+.header-menu ul li a sup.before {display:block; width:20px; height:39px; position:absolute; left:-20px; top:0; background:url(../images/header-menu.png)}
+.header-menu ul li a sup.after {display:block; width:20px; height:39px; position:absolute; right:-20px; top:0; background:url(../images/header-menu.png) right top}
+
+.footer-menu ul span.after {display:inline-block; width:100%}
+
+.main-docs a {-dt-display:table; behavior:url(./js/display-table.min.htc)}
+.main-docs a table {margin:16px 0 0 0}
+.main-docs-icon {-dt-display:table-cell}
+.main-docs-name {-dt-display:table-cell}
+
+.vacancies-pre {zoom:1}
